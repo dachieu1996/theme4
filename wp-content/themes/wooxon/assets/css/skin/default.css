@@ -1,0 +1,214 @@
+
+/*========================================
+             background color
+=========================================*/
+mark,
+.round-1 .spinner,
+.processing:before,
+.piko-spin4,
+.piko-spin5 .bounce1, .piko-spin5 .bounce2,
+.slick-dots li.slick-active button:hover,
+.slick-dots li.slick-active button,
+input[type="submit"]:hover,
+button:not(.h_no):not([class*="pswp_"]):not([class*="mfp-"]):hover,
+a.button:not(.h_no):hover,
+.pikobtn a:not(.h_no):hover, .pikobtn a:not(.h_no):focus,
+a.button.hover,
+.pikobtn a.hover,
+  .header-layout-22 .search-form .header-search-form a.button, .header-layout-22 .search-form .header-search-form button,
+  .header-bottom,
+  .header-layout-23.category-menu .header-left .secondary-menu-wrapper .secondary-title,
+.header-layout-24.category-menu .header-left .secondary-menu-wrapper .secondary-title,
+.header-layout-3 .site-header .header-3-bottom .social-page-icon a:hover,
+.header-layout-3 .site-header .header-3-bottom .tagcloud a:hover,
+  .header-layout-5 .site-header.active-sticky.sticky-menu-header .main-menu-wrap,
+  .mega-menu .tip.hot,
+  .header-layout-5 .site-header .header-main .header-right,
+  .piko-show-account.logged-in .user-info span,
+  .bgc_p,
+  .page-numbers li .current,
+  .widget .tagcloud a:hover,
+  .scroll-top span,
+  .product-label,
+  .product-bottom .btn-action a.wc-forward,
+  .piko-stock .progress-bar,
+  .product-single .piko-embed,
+.woocommerce-product-gallery .woocommerce-product-gallery__trigger,
+.product-details .button,
+.product-details .added_to_cart.wc-forward,
+.product:hover > .product-wrap .btn-action:not(.other) a,
+
+.header-actions .badges,
+.header-actions .cart-items,
+
+.widget_shopping_cart_content .buttons > a.button + a.button, .widget_shopping_cart_content .buttons > button.button + a.button, .widget_shopping_cart_content .buttons > input.button + a.button,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.woocommerce-checkout .woocommerce-form-login .button,
+.checkout.woocommerce-checkout #place_order,
+.wishlist_table .add_to_cart.button,
+.widget_layered_nav li.chosen > a:before,
+.widget_layered_nav li > a:hover:before,
+.widget_price_filter .ui-slider .ui-slider-range,
+.widget .woof .widget_price_filter .ui-slider .ui-slider-range,
+.widget_price_filter .ui-slider .ui-slider-handle,
+.widget .woof .widget_price_filter .ui-slider .ui-slider-handle,
+.piko-notify .woocommerce-message,
+.piko-notify .woocommerce-error,
+.piko-notify .woocommerce-info,
+.off-canvas-cart .close-cart,
+  .off-canvas-cart .cart-info,
+  .vc_custom_heading .block-header .banner-btn:after,
+  .tabs .tabs-title a:after,
+  .social-icons .fa-envelope,
+  .tp-bullets .tp-bullet:hover,
+.tp-bullets .tp-bullet:focus,
+.tp-bullets .tp-bullet.selected,
+.hesperiden.tparrows:hover,
+.hesperiden.tparrows:focus,
+.tparrows:hover,
+.tparrows:focus,
+#cookie-notice .bootstrap:not(.cn-more-info),
+.thumb_action .btn-ac:hover
+
+{
+    background-color: #f8981d !important;
+}
+
+/*========================================
+    Font Color scream
+=========================================*/
+a:hover, a:active,
+.header-top a:hover,
+.header-main .info .info-media,
+.header-layout-6 .site-header .header-actions > ul a:hover,
+.header-layout-6.header-transparency .header-top .site-top-bar-text a:hover,
+.header-layout-5.header-transparency .header-top .site-top-bar-text a:hover,
+.header-layout-4.header-transparency .header-top .site-top-bar-text a:hover,
+.header-layout-2.header-transparency .header-top .site-top-bar-text a:hover,
+.header-layout-1.header-transparency .header-top .site-top-bar-text a:hover,
+.header-layout-6.header-transparency .header-top .top-bar-navigation .menu > li > a:hover,
+.header-layout-5.header-transparency .header-top .top-bar-navigation .menu > li > a:hover,
+.header-layout-4.header-transparency .header-top .top-bar-navigation .menu > li > a:hover,
+.header-layout-2.header-transparency .header-top .top-bar-navigation .menu > li > a:hover,
+.header-layout-1.header-transparency .header-top .top-bar-navigation .menu > li > a:hover,
+.header-layout-6.header-transparency .site-header:not(.active-sticky) .header-actions .tools_button:hover,
+.header-layout-6.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > a:hover,
+.header-layout-6.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > h5:hover,
+.header-layout-5.header-transparency .site-header:not(.active-sticky) .header-actions .tools_button:hover,
+.header-layout-5.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > a:hover,
+.header-layout-5.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > h5:hover,
+.header-layout-4.header-transparency .site-header:not(.active-sticky) .header-actions .tools_button:hover,
+.header-layout-4.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > a:hover,
+.header-layout-4.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > h5:hover,
+.header-layout-2.header-transparency .site-header:not(.active-sticky) .header-actions .tools_button:hover,
+.header-layout-2.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > a:hover,
+.header-layout-2.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > h5:hover,
+.header-layout-1.header-transparency .site-header:not(.active-sticky) .header-actions .tools_button:hover,
+.header-layout-1.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > a:hover,
+.header-layout-1.header-transparency .site-header:not(.active-sticky) .mega-menu:not(.menu-category-menu) > li.menu-item > h5:hover,
+.mega-menu .tip.hot .tip-arrow:before,
+li.menu-item.sub-menu-color-white li.menu-item > h5:hover,
+li.menu-item.sub-menu-color-white li.menu-item > a:hover,
+.mega-menu .wide .popup li.menu-item.current_page_item > a,
+.mega-menu .wide .popup li.menu-item.current_page_item > h5,
+.mega-menu .narrow .popup li.menu-item.current_page_item > a,
+.mega-menu .narrow .popup li.menu-item.current_page_item > h5,
+.mobile-main-menu li.menu-item.current-menu-item > a,
+.header-layout-5 .site-header .header-top a:hover, .header-layout-5 .site-header .header-top a:focus,
+.header-boxes-container i,
+.product-piko-ajax-list .woocommerce-Price-amount,
+.breadcrumb a:hover,
+.c_p,
+.sidebar-two .sub-footer .widget a:hover,
+.sub-footer .widget ul li a:hover,
+.sub-footer .widget .comment-author-link a,
+.main-footer .site-info a:hover,
+.product-middle .product-brand a:hover,
+.product_list_widget span.quantity,
+.woocommerce-toolbar .gridlist-toggle-wrapper a.active,
+.woocommerce-toolbar .sort-by-wrapper .sort-by-content ul li a:hover,
+.woocommerce-toolbar .sort-by-wrapper .sort-by-content ul li.active a,
+.woocommerce-toolbar .sort-by-wrapper:hover .sort-by-label,
+[class*="piko_checkout_"] a,
+.quantity .qty-wrap a:hover,
+.woocommerce-info:before,
+.store-directory li:hover:after,
+.p_list:not(.type-tab-3) .price:not(td),
+.widget ul li a:hover,
+.widget ul.product_list_widget li a:hover span.product-title
+
+
+{
+    color: #f8981d;
+}
+/*========================================
+    Border Color scream
+=========================================*/
+.panel.panel-custom .panel-heading a,
+input[type="submit"]:hover,
+button:not(.h_no):not([class*="pswp_"]):not([class*="mfp-"]):hover,
+a.button:not(.h_no):hover,
+.pikobtn a:not(.h_no):hover, .pikobtn a:not(.h_no):focus,
+a.button.hover,
+.pikobtn a.hover,
+.header-layout-22 .search-form form:not(.cat-dropdown):not(.login-form):not(.register-form) input[type="text"],
+.category-menu .secondary-menu-wrapper .secondary-menu .main-menu,
+.category-menu .secondary-menu-wrapper .mega-menu .wide .popup > .inner,
+.header-layout-3 .site-header .header-3-bottom .social-page-icon a:hover,
+.widget .tagcloud a:hover,
+.sub-footer .widget .tagcloud a:hover,
+.product-details .button,
+.product-details .added_to_cart.wc-forward,
+.woocommerce-checkout .woocommerce-form-login .button,
+.checkout.woocommerce-checkout #place_order,
+.wishlist_table .add_to_cart.button,
+.widget_layered_nav li.chosen > a:before,
+.widget_layered_nav li > a:hover:before,
+.type-tab-3.s-item-0,
+.tp-bullets .tp-bullet:hover,
+.tp-bullets .tp-bullet:focus,
+.tp-bullets .tp-bullet.selected,
+.hesperiden.tparrows:hover,
+.hesperiden.tparrows:focus,
+.tparrows:hover,
+.tparrows:focus,
+div.wpcf7-mail-sent-ng,
+div.wpcf7-aborted,
+div.wpcf7-mail-sent-ok,
+#cookie-notice .bootstrap:not(.cn-more-info),
+#cookie-notice .bootstrap.cn-more-info:hover
+
+{
+    border-color: #f8981d !important;
+}
+.various-7 .spinner,
+.various-8 .spinner,
+.tab-vertical .tabs li a:hover,
+.tab-vertical .tabs li a.active
+
+{
+    border-left-color: #f8981d;
+}
+.various-7 .spinner{
+    border-right-color: #f8981d;
+}
+
+.various-8 .spinner,
+.piko-spin6,
+.piko-spin6:before,
+.piko-spin6:after,
+.widget_price_filter .ui-slider .ui-slider-handle:after,
+.widget .woof .widget_price_filter .ui-slider .ui-slider-handle:after
+
+
+{
+    border-top-color: #f8981d;
+}
+.slick-thumb.bttom .slick-list .slick-current,
+.header-layout-5 .site-header .header-main .header-left,
+.slick-thumb img.slick-current,
+.woocommerce-product-gallery .piko-nav .slick-current img,
+.wc-backward
+{
+    border-bottom-color: #f8981d;
+}

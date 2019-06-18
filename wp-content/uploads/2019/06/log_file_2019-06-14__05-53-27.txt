@@ -1,0 +1,172 @@
+
+---Downloaded files---
+The import files for: Electronics were successfully downloaded!
+Initial max execution time = 18000
+Files info:
+Site URL = http://127.0.0.1:8888/theme4
+Data file = /Applications/MAMP/htdocs/theme4/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/dummy.xml
+Widget file = /Applications/MAMP/htdocs/theme4/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/widgets.json
+Customizer file = not defined!
+Redux files:
+wooxon -> /Applications/MAMP/htdocs/theme4/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+[Pikoworks] Recent Posts with image - Latest Posts - Imported
+Lưu trữ - No Title - Widget already exists
+Chuyên mục - No Title - Widget already exists
+Mây Thẻ - No Title - Imported
+
+Page Sidebar : 
+
+HTML Tùy chỉnh - Customer Support - Imported
+HTML Tùy chỉnh - Top Links - Imported
+HTML Tùy chỉnh - No Title - Imported
+
+Footer Inner : 
+
+[Pikoworks] Newsletter - Sign up our Newsletter - Imported
+HTML Tùy chỉnh - Customer Support - Imported
+HTML Tùy chỉnh - Top Links - Imported
+HTML Tùy chỉnh - No Title - Imported
+
+Footer Inner top : 
+
+Sản phẩm - Featured Product - Imported
+Sản phẩm theo đánh giá - Top Rated Products - Imported
+Sản phẩm - On-sale Product - Imported
+
+Footer Inner top 2 : 
+
+[Pikoworks] Newsletter - Sign up our Newsletter - Imported
+
+Shop Sidebar : 
+
+[Pikoworks] Product Categories - No Title - Imported
+Bộ lọc sản phẩm đang kích hoạt - Active filters - Imported
+Lọc sản phẩm bởi Thuộc tính - Color - Imported
+Lọc sản phẩm bởi Thuộc tính - Screen Size - Imported
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Sản phẩm - Products - Imported
+yith-woocompare-widget - Compare - Site does not support widget
+
+Shop Filter Sidebar : 
+
+YITH WooCommerce Ajax Price List Filter - Price Filter - Imported
+YITH WooCommerce Ajax Product Filter - Color - Imported
+YITH WooCommerce Ajax Product Filter - Screen Size - Imported
+YITH WooCommerce Ajax Sort By - Sort by - Imported
+YITH WooCommerce Ajax In Stock/On Sale Filters - Stock/On sale - Imported
+YITH WooCommerce Ajax Reset Filter - No Title - Imported
+Bộ lọc sản phẩm đang kích hoạt - Active filters - Imported
+
+Shop Catalog Sidebar : 
+
+HTML Tùy chỉnh - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wooxon finished successfully!
+
+---pt-ocdi/after_import---
+

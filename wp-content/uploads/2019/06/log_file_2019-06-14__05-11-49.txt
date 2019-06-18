@@ -1,0 +1,84 @@
+
+---Downloaded files---
+The import files for: Electronics were successfully downloaded!
+Initial max execution time = 18000
+Files info:
+Site URL = http://127.0.0.1:8888/theme4
+Data file = /Applications/MAMP/htdocs/theme4/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/dummy.xml
+Widget file = /Applications/MAMP/htdocs/theme4/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/widgets.json
+Customizer file = not defined!
+Redux files:
+wooxon -> /Applications/MAMP/htdocs/theme4/wp-content/themes/wooxon/inc/admin/importer/dummy/electronics/options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
